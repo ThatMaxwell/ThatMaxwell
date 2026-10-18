@@ -36,7 +36,6 @@ Fast, private, very customizable. Aurora and Firefox, no Google Play.
 | | |
 |---|---|
 | [Terminox](https://github.com/ThatMaxwell/Terminox) | A mobile app for managing multiple terminal sessions. My first project. |
-| [Firelamp](https://github.com/ThatMaxwell/Firelamp-WIP-) | An OS for AI automation. |
 | [Sonot](https://github.com/ThatMaxwell/Sonot) | My best AI work. |
 | [Slice](https://github.com/ThatMaxwell/Slice) | A browser. |
 | [Fishi](https://github.com/ThatMaxwell/Fishi) | An open source, feature-rich messaging app. |
